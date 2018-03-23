@@ -1,0 +1,13 @@
+---
+# file: main.yml
+
+  variable1: value1
+
+  variable_list1:
+  - value1
+  - value2
+
+  variable_list2:
+  - { subvar1: subval1, subvar2: subval2 }
+  - { subvar1: subval3, subvar2: subval4 }
+

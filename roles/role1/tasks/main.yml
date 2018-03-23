@@ -1,0 +1,7 @@
+# Standard playbook language here 
+# http://docs.ansible.com/ansible/latest/playbooks_intro.html
+
+ - name: Task Name
+   task_action:
+     task_option: option_value
+

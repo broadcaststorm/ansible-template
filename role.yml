@@ -1,0 +1,6 @@
+---
+# file: role.yml
+- hosts: group1
+  roles:
+    - role1
+
